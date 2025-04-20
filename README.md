@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there 👋 I'm Margaret
 
-<!--
-**MaggieWM-sketch/MaggieWM-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer, Cloud Enthusiast, STEM advocate and creative Technologist blending code, Community and Innovation.
 
-Here are some ideas to get you started:
+Currently pursuing a BSc in Mathematics and Computer Science at Kenyatta University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏿AWS Certified Cloud Practitioner |re/start Graduate
+🧠Skilled in Python, C++, Web Development (HTML, CSS, Java Script)
+💻 Building solutions that merge tech and impact
+Tech Stack
+Python HTML CSS C++ JavaScript AWS
+
+GitHub Stats
+
+GitHub Contribution Graph
+
+Top Langs
+
+GitHub Streak
+
+Connect with Me
+GitHub LinkedIn Instagram
