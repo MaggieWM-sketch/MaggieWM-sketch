@@ -22,7 +22,6 @@ Currently pursuing a BSc in Mathematics and Computer Science at Kenyatta Univers
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaggieWM-sketch&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MaggieWM-sketch)
 
 ### Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
