@@ -5,8 +5,11 @@ I'm a software engineer, Cloud Enthusiast, STEM advocate and creative Technologi
 Currently pursuing a BSc in Mathematics and Computer Science at Kenyatta University
 
 👩🏿AWS Certified Cloud Practitioner |re/start Graduate
+
 🧠Skilled in Python, C++, Web Development (HTML, CSS, Java Script)
+
 💻 Building solutions that merge tech and impact
+
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
